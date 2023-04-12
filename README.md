@@ -42,26 +42,3 @@
 </div>
 
 ---
-
-### 💻 Пройденные курсы:
-
-| Курсы                                                                     | Дата              |
-| --------------------------------------------------------------------------| :---------------: |
-| Python-разработчик. Яндекс.Практикум               | 06/2022 - 03/2023 |
-| LetPy: Основы программирования на языке Python           | 04/2022 - 05/2022 |
-
-
----
-
-### ⚙️ GitHub статистика:
-
-<table>
-  <tr>
-    <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=AnnaMolodova&theme=dark&background=000000" alt="webDev's Github stats">
-    </td>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AnnaMolodova&layout=compact&theme=vision-friendly-dark">
-    </td>
-  </tr>
-</table>
